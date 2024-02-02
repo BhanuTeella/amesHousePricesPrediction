@@ -12,4 +12,4 @@ Key Features:
 
 Stack: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and XGBoost
 
-Explore the code, contribute to the project, and adapt the model for your real estate prediction tasks. Check the documentation for detailed insights and requirements.
+Explore the code, contribute to the project, and adapt the model for your real estate prediction tasks.
